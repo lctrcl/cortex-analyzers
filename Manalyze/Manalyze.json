@@ -1,0 +1,12 @@
+{
+    "name": "Manalyze",
+    "author": "Igor Ivanov, @lctrcl",
+    "license": "AGPL-V3",
+    "url": "https://github.com/lctrcl/cortex-analyzers",
+    "version": "1.0",
+    "baseConfig": "Manalyze",
+    "config": {},
+    "description": "Check files with Manalyze",
+    "dataTypeList": ["file"],
+    "command": "Manalyze/manalyze_analyzer.py"
+}
